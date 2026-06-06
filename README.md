@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Manisha Ejjagiri! 👋
 
-<!--
-**ejjagirimanisha123-dot/ejjagirimanisha123-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer with a focus on building impactful solutions. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+##  What I'm Working On
+* Currently building projects to enhance my skills in software development.
+* Exploring new technologies and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  My Tech Stack
+* **Languages:** Python, Java, JavaScript
+* **Tools & Platforms:** Git, GitHub, VS Code, Linux
+* **Learning:** Data Structures, Algorithms, and Cloud technologies
+
+## 📫How to reach me
+ **Email:** ejjagirimanisha123@gmail.com
+
+##  Fun Fact
+* I love solving complex problems and am always eager to learn something new every day!
+
+---
